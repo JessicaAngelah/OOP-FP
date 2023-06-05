@@ -8,6 +8,8 @@ Brick Breaker is a classic high-paced game of brick-smashing action. Grab power-
 
 ### Video Link: coming soon
 
+##
+
 All you need to do is run the maingame code.
 
 ![](images/img1.png)
