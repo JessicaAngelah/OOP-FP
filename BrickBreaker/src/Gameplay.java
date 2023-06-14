@@ -72,7 +72,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 		g.fillOval(ballposX, ballposY, 20, 20);
 
 		// when you won the game
-		if(totalBricks == 0)
+		if(totalBricks <= 0)
 		{
 			 play = false;
              ballXdir = 0;
