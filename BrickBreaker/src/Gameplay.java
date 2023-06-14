@@ -18,8 +18,8 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 
 	private int playerX = 310;
 
-	private int ballposX = 120;
-	private int ballposY = 350;
+	private int ballposX = 350; // position of ball in X coordination
+	private int ballposY = 350; // position of ball in Y coordination
 	private int ballXdir = -4; // speed of ball in X direction
 	private int ballYdir = -7; // speed of ball in Y direction
 
@@ -128,11 +128,12 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 
 	public void keyPressed(KeyEvent e)
 	{
+	// when you press left arrow key moves the paddle to the left
 		if (e.getKeyCode() == KeyEvent.VK_E) {
 			highScore = 0;
 			Datastore.resetHighScore();
 		}
-
+        // when you press right arrow key moves the paddle to the right
 		if (e.getKeyCode() == KeyEvent.VK_RIGHT)
 		{
 			if(playerX >= 600)
