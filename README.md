@@ -6,7 +6,7 @@ Brick Breaker is a classic high-paced game of brick-smashing action. Grab power-
 
 ### Program report: coming soon
 
-### Video Link: coming soon
+### Video Link: https://www.youtube.com/watch?v=2B81xjFUTNs
 
 ##
 
