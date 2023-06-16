@@ -4,17 +4,16 @@ Brickbreaker is a popular and timeless game, with variations available on differ
 
 ## How to use the program
 
+### All you need to do is run the maingame code.
+
 ### Program report: https://docs.google.com/document/d/1Ud8YBSSOviIlPs-GsDNuaHuRTtL8_h2O-1AgGCHiWRQ/edit?usp=sharing
 
 ### Video Link: https://www.youtube.com/watch?v=2B81xjFUTNs
 
-##
 
-### All you need to do is run the maingame code.
+##
 
 ### This is the preview of the game.
-
-##
 
 This is the Beginning Screen
 
