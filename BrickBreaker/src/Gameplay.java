@@ -4,7 +4,7 @@ import java.awt.*;
 import javax.swing.Timer;
 
 
-public class Gameplay extends JPanel implements KeyListener, ActionListener ////used to create a specialized panel for the game as it requires keyboard input and responds to specific actions 
+public class Gameplay extends JPanel implements KeyListener, ActionListener ////to create a specialized panel for the game as it requires keyboard input and responds to specific actions 
 {
 	private boolean play = false;
 	private int score = 0;
