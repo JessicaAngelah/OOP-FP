@@ -1,5 +1,5 @@
 import javax.swing.JFrame;
-
+//initial screen when the game runs (main page)
 public class Main {
 	public static void main(String[] args) {
 		JFrame obj=new JFrame();
