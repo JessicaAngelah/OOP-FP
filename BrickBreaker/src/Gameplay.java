@@ -194,6 +194,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 		timer.start();
 		if(play)
 		{
+		// collision of the ball and the paddle
 			if(new Rectangle(ballposX, ballposY, 20, 20).intersects(new Rectangle(playerX, 550, 30, 8)))
 			{
 				ballYdir = -ballYdir;
@@ -249,6 +250,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 				}
 			}
 
+                        //updates the position of the ball
 			ballposX += ballXdir;
 			ballposY += ballYdir;
 
@@ -265,7 +267,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 				ballXdir = -ballXdir;
 			}
 
-			repaint();
+			repaint(); 
 		}
 	}
 }
