@@ -13,14 +13,14 @@ Brick Breaker is a classic high-paced game of brick-smashing action. Grab power-
 All you need to do is run the maingame code.
 
 This is the preview of the game.
-![](images/image1.png)
+![](images/img1.png)
 This is the Beginning Screen
 
-![](images/image2.png)
+![](images/img2.png)
 This is Game Over Screen
 
-![](images/image3.png)
+![](images/img3.png)
 This is New High Score Screen
 
-![](images/image4.png)
+![](images/img4.png)
 This is You Won Screen
